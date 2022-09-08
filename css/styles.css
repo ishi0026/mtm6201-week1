@@ -1,0 +1,41 @@
+* {
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: bold;
+    text-decoration: none;
+    color: #6699cc;
+    margin: auto;
+    padding: 10px;
+    max-width: 1200px;
+}
+
+/* display profile image center */
+img.profile {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+h1 {
+    font-size: 3.80rem;
+}
+
+dl{
+   font-size: 1.5rem; 
+}
+
+dt {
+    color:black;
+    text-decoration: underline;
+}
+
+/* wrap over the all contents */
+.container {
+    max-width: 1200px;
+    margin: 0 auto; 
+    background-color:#ffffe0;
+}
+
+footer {
+    text-align: right;
+    padding: 20px;
+}
